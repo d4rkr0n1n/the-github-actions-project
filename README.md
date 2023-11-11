@@ -4,6 +4,6 @@
 
 ## Examples
 
-[![Simple Workflow](https://github.com/d4rkr0n1n/the-github-actions-project/actions/workflows/simple-workflow.yml/badge.svg)](https://github.com/d4rkr0n1n/the-github-actions-project/actions/workflows/simple-workflow.yml)
+### Simple Workflow [![Simple Workflow](https://github.com/d4rkr0n1n/the-github-actions-project/actions/workflows/simple-workflow.yml/badge.svg)](https://github.com/d4rkr0n1n/the-github-actions-project/actions/workflows/simple-workflow.yml)
 
 This is a simple workflow to run some basic commands.
